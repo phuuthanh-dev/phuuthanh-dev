@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/khoahd7621?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/khoahd7621?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=khoahd7621&label=Profile%20views&color=brightgreen&style=flat" alt="khoahd7621"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh2003?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh2003?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh2003&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
@@ -16,6 +16,7 @@
 
 - ##### Backends
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![.Net](https://img.shields.io/badge/dotnet-%238A2BE2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 - ##### Frontends
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
