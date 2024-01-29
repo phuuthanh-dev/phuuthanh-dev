@@ -7,7 +7,7 @@
 ## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Phùng Hữu Thành <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
 
 - 🔭 I’m currently final-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
-- 
+  
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/phuuthanh2003?tab=repositories)
 
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
