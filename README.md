@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh2003?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh2003?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh2003&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh2003?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh2003?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh2003&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
