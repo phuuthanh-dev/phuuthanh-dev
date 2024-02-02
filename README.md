@@ -37,7 +37,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=phuuthanh2003&layout=compact&show_icon=true&theme=algolia" alt="khoahd7621-stats"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=khoahd7621&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=phuuthanh2003&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 <div align="center">
   <picture>
