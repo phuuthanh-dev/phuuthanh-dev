@@ -13,6 +13,7 @@
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+ 
 ## 🔮 Tech Stacks
 
 - ##### Backends
