@@ -41,9 +41,9 @@
 </div>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuuthanh2003/phuuthanh2003/b67fd81cf707cf8ca65313b8cd67231839be1ce7/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phuuthanh2003/phuuthanh2003/b67fd81cf707cf8ca65313b8cd67231839be1ce7/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/phuuthanh2003/phuuthanh2003/b67fd81cf707cf8ca65313b8cd67231839be1ce7/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuuthanh2003/phuuthanh2003/efde7b7b45d1c97e4b9f33b8322c7fc91f130360/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phuuthanh2003/phuuthanh2003/efde7b7b45d1c97e4b9f33b8322c7fc91f130360/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/phuuthanh2003/phuuthanh2003/efde7b7b45d1c97e4b9f33b8322c7fc91f130360/github-snake.svg" />
   </picture>
 </div>
 
