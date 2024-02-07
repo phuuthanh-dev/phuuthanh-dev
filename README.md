@@ -11,10 +11,8 @@
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/phuuthanh2003?tab=repositories)
 
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
- 
 ## 🔮 Tech Stacks
+<img align="right" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="300" height="350" />
 
 - ##### Backends
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
