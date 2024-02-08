@@ -41,6 +41,15 @@
 <br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   2 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.22 %
+C#           1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   35.98 %
+HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Binary       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+YAML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+```
+
 <!--END_SECTION:waka-->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
