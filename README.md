@@ -1,10 +1,15 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh2003?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh2003?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh2003&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3000&pause=800&color=BF91F3&random=false&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
 </div>
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Phùng Hữu Thành <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+Ph%C3%B9ng+H%E1%BB%AFu+Th%C3%A0nh" alt="Title"/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=700&height=50&lines=A+passionate+full+stack+undergraduate+from+Vietnam!" alt="Title"/>
+</div>
+
+##
 
 - 🔭 I’m currently third-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
   
