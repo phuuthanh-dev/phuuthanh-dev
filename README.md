@@ -17,10 +17,8 @@
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
 
 ## 🔮 Tech Stacks
-<img align="left" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="345" height="380"/>
+<img align="right" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="280" height="330"/>
 
-<span margin-left="100" align="center"><br/>
-  
 - ##### Backends
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -38,8 +36,6 @@
 
 - ##### Databases
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-</span>
-<br/><br/>
 
 ## 🌟 About Some Stats
 
