@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
 
 ## 🔮 Tech Stacks
-<img align="left" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="320" height="370"/>
+<img align="left" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="345" height="380"/>
 
 <span margin-left="100" align="center">
   
