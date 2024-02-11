@@ -19,7 +19,7 @@
 ## 🔮 Tech Stacks
 <img align="left" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="345" height="380"/>
 
-<span margin-left="100" align="center">
+<span margin-left="100" align="center"><br/>
   
 - ##### Backends
 
