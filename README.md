@@ -1,10 +1,15 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh2003?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh2003?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh2003&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=90&multiline=true&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3000&pause=800&color=BF91F3&multiline=true&random=false&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
 </div>
 
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Phùng Hữu Thành <h5> A passionate full stack undergraduate from Vietnam <img src="https://media.giphy.com/media/xBeM3b0G6brQCbR6RB/giphy.gif"  width="3%"></h5></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+Ph%C3%B9ng+H%E1%BB%AFu+Th%C3%A0nh" alt="Title"/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=700&height=50&lines=A+passionate+full+stack+undergraduate+from+Vietnam!" alt="Title"/>
+</div>
+
+##
 
 - 🔭 I’m currently third-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/phuuthanh2003?tab=repositories)
@@ -40,15 +45,51 @@
 ## 🌟 About Some Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&count_private=flase" alt="phuuthanh2003-stats"/>
+  <img height="150em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
+  <img height="150em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="phuuthanh2003-stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh2003&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh2003&theme=tokyonight&hide_border=false"/>
 </div>
 <br/>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+🌆 Daytime                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+🌃 Evening                342 commits         ████████████████░░░░░░░░░   64.17 % 
+🌙 Night                  109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+C#                       5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
+JavaScript               5 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
+Binary                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+HTML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+
+🔥 Editors: 
+Visual Studio            6 hrs 45 mins       █████████████░░░░░░░░░░░░   51.47 % 
+VS Code                  6 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.53 % 
+
+🐱‍💻 Projects: 
+HuuThanh.FAP             3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+1_Month_Of_JavaScript    1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Giaolang.LINQ.V3         1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+hookueseffect            1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+hookusestate             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+```
+
+
+ Last Updated on 10/02/2024 18:37:07 UTC
 <!--END_SECTION:waka-->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
