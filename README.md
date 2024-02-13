@@ -15,16 +15,20 @@
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/phuuthanh2003?tab=repositories)
 
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
+  
+##
+<img alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/ChillMario.gif"/>
 
-## 🔮 Tech Stacks
-<img align="right" alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/stream.gif?raw=true" width="280" height="330"/>
 
-- ##### Backends
 
+<details close>
+<summary><h3><b>🔮 Tech Stacks</b></h3></summary>
+  
+  - ##### Backends
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![.Net](https://img.shields.io/badge/dotnet-%238A2BE2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-
-- ##### Frontends
+  
+  - ##### Frontends
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,8 +38,10 @@
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2300A6D3.svg?style=for-the-badge&logo=react&logoColor=white)
 
-- ##### Databases
+  - ##### Databases
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+</details>
+
 
 ## 🌟 About Some Stats
 
