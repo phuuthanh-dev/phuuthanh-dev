@@ -27,6 +27,8 @@
   - ##### Backends
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![.Net](https://img.shields.io/badge/dotnet-%238A2BE2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   
   - ##### Frontends
 
@@ -37,13 +39,14 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2300A6D3.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
   - ##### Databases
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 </details>
 
 
-## 🌟 About Some Stats
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px">  About Some Stats
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
@@ -94,7 +97,7 @@ HuuThanh.FAP.V2          2 hrs 33 mins       ██░░░░░░░░░�
  Last Updated on 14/02/2024 18:37:58 UTC
 <!--END_SECTION:waka-->
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="7%"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
   <a href="mailto:phuuthanh2003@gmail.com" >
