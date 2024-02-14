@@ -97,7 +97,7 @@ HuuThanh.FAP.V2          2 hrs 33 mins       ██░░░░░░░░░�
  Last Updated on 14/02/2024 18:37:58 UTC
 <!--END_SECTION:waka-->
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="7%"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
   <a href="mailto:phuuthanh2003@gmail.com" >
