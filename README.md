@@ -76,17 +76,17 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-NetBeans                 5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PE_PRJ301                5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/04/2024 18:37:30 UTC
+ Last Updated on 10/04/2024 18:59:38 UTC
 <!--END_SECTION:waka-->
 
 
