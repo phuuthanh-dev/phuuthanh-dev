@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+Ph%C3%B9ng+H%E1%BB%AFu+Th%C3%A0nh" alt="Title"/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=700&height=50&lines=A+passionate+full+stack+undergraduate+from+Vietnam!" alt="Title"/>
 </div>
 
 ##
@@ -50,8 +49,9 @@
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 </details>
 
-
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px">  About Some Stats
+<details><summary>
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><h3><b>About Some Stats</b></h3>
+</summary>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
@@ -61,7 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh2003&theme=tokyonight&hide_border=false"/>
 </div>
 <br/>
-
+</details>
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
