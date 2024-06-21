@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh2003?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh2003?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh2003&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/phuuthanh-dev?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/phuuthanh-dev?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=phuuthanh-dev&label=Profile%20views&color=brightgreen&style=flat" alt="phuuthanh2003"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3000&pause=800&color=BF91F3&multiline=true&random=false&width=720&height=130&lines=Welcome+to+my+profile" alt="Title" />
@@ -54,11 +54,11 @@
 </summary>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
-  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="phuuthanh2003-stats"/>
+  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh-dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
+  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api?username=phuuthan-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="phuuthanh2003-stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh2003&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh-dev&theme=tokyonight&hide_border=false"/>
 </div>
 <br/>
 </details>
