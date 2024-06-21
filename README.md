@@ -55,7 +55,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh-dev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
-  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api?username=phuuthan-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="phuuthanh2003-stats"/>
+  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api?username=phuuthanh-dev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="phuuthanh2003-stats"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh-dev&theme=tokyonight&hide_border=false"/>
